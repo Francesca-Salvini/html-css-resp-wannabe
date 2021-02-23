@@ -96,6 +96,13 @@ img {
     
   }
 
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+
+    display: block;
+    width: 100%;
+  }
   
 
 }
