@@ -75,7 +75,7 @@ img {
 
 /*MEDIA QUERY*/
 
-@media screen and (max-width: 419px) {
+@media screen and (max-width: 420px) {
 
   .row {
     width: 100%;
